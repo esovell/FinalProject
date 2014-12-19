@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  book_title: MyString
+  book_length: 1
+  book_summary: 
+  book_date_finished: 2014-12-19
+  genre_id_id: 
+  series_id_id: 
+  course_id_id: 
+
+two:
+  book_title: MyString
+  book_length: 1
+  book_summary: 
+  book_date_finished: 2014-12-19
+  genre_id_id: 
+  series_id_id: 
+  course_id_id: 

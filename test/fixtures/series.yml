@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  series_title: MyString
+  series_description: 
+  series_book_count: 1
+  series_finished: 1
+
+two:
+  series_title: MyString
+  series_description: 
+  series_book_count: 1
+  series_finished: 1
